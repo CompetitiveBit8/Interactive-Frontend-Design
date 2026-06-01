@@ -1,0 +1,1 @@
+This is a project fron an awesome youtube tutorial that teaches how to use HTML, CSS and JavaScript in creating and interactive website. It was perfectly replicated. It reminding me of the very essentials I have learnt some years ago. I feel confident now in my skills to handle frontend projects
